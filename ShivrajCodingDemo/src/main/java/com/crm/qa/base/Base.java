@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.crm.qa.util.TestUtil;
-
+//Base class
 public class Base 
 {
 	public static Properties prop;
